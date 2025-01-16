@@ -1,0 +1,112 @@
+{
+  "__comment": "Ce fichier contient les traductions pour différentes langues. A mettre dans locales/'langues' et 'sections.cart' de chaque fichier",
+
+  "bg-BG": {
+    "item_stock_empty": "Внимание, този продукт е наличен само в магазин. Ако желаете доставка, моля, свържете се с нас директно."
+  },
+  "bg": {
+    "item_stock_empty": "Внимание, този продукт е наличен само в магазин. Ако желаете доставка, моля, свържете се с нас директно."
+  },
+  "cs": {
+    "item_stock_empty": "Pozor, tento produkt je k dispozici pouze v obchodě. Pokud si přejete doručení, kontaktujte nás prosím přímo."
+  },
+  "da": {
+    "item_stock_empty": "Bemærk, dette produkt er kun tilgængeligt i butikken. Hvis du ønsker levering, bedes du kontakte os direkte."
+  },
+  "de": {
+    "item_stock_empty": "Achtung, dieses Produkt ist nur im Geschäft erhältlich. Wenn Sie eine Lieferung wünschen, kontaktieren Sie uns bitte direkt."
+  },
+  "el": {
+    "item_stock_empty": "Προσοχή, αυτό το προϊόν είναι διαθέσιμο μόνο στο κατάστημα. Εάν επιθυμείτε παράδοση, παρακαλούμε επικοινωνήστε μαζί μας απευθείας."
+  },
+  "en": {
+    "item_stock_empty": "Attention, this product is only available in-store. If you would like delivery, please contact us directly."
+  },
+  "es": {
+    "item_stock_empty": "Atención, este producto está disponible únicamente en tienda. Si desea una entrega, por favor contáctenos directamente."
+  },
+  "fi": {
+    "item_stock_empty": "Huomio, tämä tuote on saatavilla vain myymälässä. Jos haluat toimituksen, ota meihin suoraan yhteyttä."
+  },
+  "hr-HR": {
+    "item_stock_empty": "Pažnja, ovaj proizvod je dostupan samo u trgovini. Ako želite dostavu, molimo kontaktirajte nas izravno."
+  },
+  "hr": {
+    "item_stock_empty": "Pažnja, ovaj proizvod je dostupan samo u trgovini. Ako želite dostavu, molimo kontaktirajte nas izravno."
+  },
+  "hu": {
+    "item_stock_empty": "Figyelem, ez a termék csak az üzletben érhető el. Ha szállítást szeretne, kérjük, lépjen kapcsolatba velünk közvetlenül."
+  },
+  "id": {
+    "item_stock_empty": "Perhatian, produk ini hanya tersedia di toko. Jika Anda menginginkan pengiriman, silakan hubungi kami secara langsung."
+  },
+  "it": {
+    "item_stock_empty": "Attenzione, questo prodotto è disponibile solo in negozio. Se desideri una consegna, contattaci direttamente."
+  },
+  "ja": {
+    "item_stock_empty": "注意: この商品は店舗でのみご利用いただけます。配送をご希望の場合は、直接お問い合わせください。"
+  },
+  "ko": {
+    "item_stock_empty": "주의: 이 제품은 매장에서만 구매 가능합니다. 배송을 원하시면 직접 문의해 주세요."
+  },
+  "lt-LT": {
+    "item_stock_empty": "Dėmesio, šis produktas yra prieinamas tik parduotuvėje. Jei norite pristatymo, prašome susisiekti su mumis tiesiogiai."
+  },
+  "lt": {
+    "item_stock_empty": "Dėmesio, šis produktas yra prieinamas tik parduotuvėje. Jei norite pristatymo, prašome susisiekti su mumis tiesiogiai."
+  },
+  "nb": {
+    "item_stock_empty": "Merk, dette produktet er kun tilgjengelig i butikk. Hvis du ønsker levering, vennligst kontakt oss direkte."
+  },
+  "nl": {
+    "item_stock_empty": "Let op, dit product is alleen beschikbaar in de winkel. Als u levering wilt, neem dan rechtstreeks contact met ons op."
+  },
+  "pl": {
+    "item_stock_empty": "Uwaga, ten produkt jest dostępny wyłącznie w sklepie. Jeśli chcesz dostawę, skontaktuj się z nami bezpośrednio."
+  },
+  "pt-BR": {
+    "item_stock_empty": "Atenção, este produto está disponível apenas na loja. Se desejar entrega, entre em contato diretamente conosco."
+  },
+  "pt-PT": {
+    "item_stock_empty": "Atenção, este produto está disponível apenas na loja. Se desejar entrega, entre em contato diretamente conosco."
+  },
+  "ro-RO": {
+    "item_stock_empty": "Atenție, acest produs este disponibil doar în magazin. Dacă doriți livrare, vă rugăm să ne contactați direct."
+  },
+  "ro": {
+    "item_stock_empty": "Atenție, acest produs este disponibil doar în magazin. Dacă doriți livrare, vă rugăm să ne contactați direct."
+  },
+  "ru": {
+    "item_stock_empty": "Внимание, этот продукт доступен только в магазине. Если вы хотите доставку, свяжитесь с нами напрямую."
+  },
+  "sk-SK": {
+    "item_stock_empty": "Pozor, tento produkt je dostupný iba v predajni. Ak si želáte doručenie, kontaktujte nás priamo."
+  },
+  "sk": {
+    "item_stock_empty": "Pozor, tento produkt je dostupný iba v predajni. Ak si želáte doručenie, kontaktujte nás priamo."
+  },
+  "sl-SI": {
+    "item_stock_empty": "Pozor, ta izdelek je na voljo samo v trgovini. Če želite dostavo, nas prosimo kontaktirajte neposredno."
+  },
+  "sl": {
+    "item_stock_empty": "Pozor, ta izdelek je na voljo samo v trgovini. Če želite dostavo, nas prosimo kontaktirajte neposredno."
+  },
+  "sv": {
+    "item_stock_empty": "Observera, denna produkt är endast tillgänglig i butik. Om du önskar leverans, vänligen kontakta oss direkt."
+  },
+  "th": {
+    "item_stock_empty": "โปรดทราบ สินค้านี้มีจำหน่ายเฉพาะในร้านค้าเท่านั้น หากคุณต้องการจัดส่ง กรุณาติดต่อเราโดยตรง"
+  },
+  "tr": {
+    "item_stock_empty": "Dikkat, bu ürün yalnızca mağazada mevcuttur. Teslimat istiyorsanız, lütfen doğrudan bizimle iletişime geçin."
+  },
+  "vi": {
+    "item_stock_empty": "Chú ý, sản phẩm này chỉ có sẵn tại cửa hàng. Nếu bạn muốn giao hàng, vui lòng liên hệ trực tiếp với chúng tôi."
+  },
+  "zh-CN": {
+    "item_stock_empty": "注意，此产品仅在店内有售。如需配送，请直接联系我们。"
+  },
+  "zh-TW": {
+    "item_stock_empty": "注意，此產品僅限於店內購買。如需配送，請直接聯繫我們。"
+  }
+}

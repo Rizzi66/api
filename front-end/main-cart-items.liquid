@@ -20,7 +20,7 @@
       const stock = data.stock;
       console.log("Stock : ", stock);
       if (stock === 0) {
-        document.getElementById("Line-item-stock-{{ item.index | plus: 1 }}").innerHTML = `<small class="cart-item__error-text">Attention, ce produit est uniquement disponible en boutique. Si vous souhaitez une livraison, merci de nous contacter directement.</small>
+        document.getElementById("Line-item-stock-{{ item.index | plus: 1 }}").innerHTML = `<small class="cart-item__error-text">{{ 'sections.cart.item_stock_empty' | t }}</small>
     <svg
       aria-hidden="true"
       focusable="false"
